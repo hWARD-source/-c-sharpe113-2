@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\-c-sharpe113-2\\113-3-13\\Program6_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EDC817-D476-4006-8B36-75A2F80D08C7}|Program6_10\\Program6_10.csproj|c:\\users\\shu\\desktop\\-c-sharpe113-2\\113-3-13\\program6_10\\113-3-16-1.-1||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EDC817-D476-4006-8B36-75A2F80D08C7}|Program6_10\\Program6_10.csproj|solutionrelative:113-3-16-1.-1||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 117,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "113-3-16-1.-1",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\-c-sharpe113-2\\113-3-13\\Program6_10\\113-3-16-1.-1",
+              "RelativeDocumentMoniker": "113-3-16-1.-1",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\-c-sharpe113-2\\113-3-13\\Program6_10\\113-3-16-1.-1*",
+              "RelativeToolTip": "113-3-16-1.-1*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T11:39:11.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
