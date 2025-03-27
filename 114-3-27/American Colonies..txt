@@ -1,0 +1,5 @@
+﻿重建已在 下午 12:28 開始...
+1>------ 已開始全部重建: 專案: American Colonies, 設定: Debug Any CPU ------
+1>  American Colonies -> C:\Users\shu\Desktop\American Colonies\American Colonies\bin\Debug\American Colonies.exe
+==========全部重建 : 成功 1 個，失敗 0 個，略過 0 個==========
+========== 重建 已於 下午 12:28 完成並花了 00.241 秒 ==========

@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\-c-sharpe113-2\114-3-27\NumberFrequency\NumberFrequency\obj\Debug\NumberFrequency.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\-c-sharpe113-2\114-3-27\NumberFrequency\NumberFrequency\obj\Debug\NumberFrequency.Form1.resources
+C:\Users\shu\Desktop\-c-sharpe113-2\114-3-27\NumberFrequency\NumberFrequency\obj\Debug\NumberFrequency.Properties.Resources.resources
+C:\Users\shu\Desktop\-c-sharpe113-2\114-3-27\NumberFrequency\NumberFrequency\obj\Debug\NumberFrequency.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\-c-sharpe113-2\114-3-27\NumberFrequency\NumberFrequency\obj\Debug\NumberFrequency.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\-c-sharpe113-2\114-3-27\NumberFrequency\NumberFrequency\bin\Debug\NumberFrequency.exe.config
+C:\Users\shu\Desktop\-c-sharpe113-2\114-3-27\NumberFrequency\NumberFrequency\bin\Debug\NumberFrequency.exe
+C:\Users\shu\Desktop\-c-sharpe113-2\114-3-27\NumberFrequency\NumberFrequency\bin\Debug\NumberFrequency.pdb
+C:\Users\shu\Desktop\-c-sharpe113-2\114-3-27\NumberFrequency\NumberFrequency\obj\Debug\NumberFrequency.exe
+C:\Users\shu\Desktop\-c-sharpe113-2\114-3-27\NumberFrequency\NumberFrequency\obj\Debug\NumberFrequency.pdb
