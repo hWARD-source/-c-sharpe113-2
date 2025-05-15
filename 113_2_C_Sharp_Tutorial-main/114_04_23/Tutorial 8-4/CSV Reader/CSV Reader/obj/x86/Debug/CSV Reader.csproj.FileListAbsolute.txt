@@ -29,3 +29,10 @@ D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CS
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Form1.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Properties.Resources.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.GenerateResource.Cache
+C:\Users\shu\Desktop\-c-sharpe113-2\113_2_C_Sharp_Tutorial-main\114_04_23\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\-c-sharpe113-2\113_2_C_Sharp_Tutorial-main\114_04_23\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Form1.resources
+C:\Users\shu\Desktop\-c-sharpe113-2\113_2_C_Sharp_Tutorial-main\114_04_23\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Properties.Resources.resources
+C:\Users\shu\Desktop\-c-sharpe113-2\113_2_C_Sharp_Tutorial-main\114_04_23\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\-c-sharpe113-2\113_2_C_Sharp_Tutorial-main\114_04_23\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\-c-sharpe113-2\113_2_C_Sharp_Tutorial-main\114_04_23\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.exe
+C:\Users\shu\Desktop\-c-sharpe113-2\113_2_C_Sharp_Tutorial-main\114_04_23\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.pdb
